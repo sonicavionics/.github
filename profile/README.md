@@ -16,7 +16,7 @@
         <a href="https://github.com/sonicavionics/4in-powersim/tree/main" target="_blank"><i>PowerSim</i></a>
       </td>
       <td align="center" style="vertical-align: middle;">
-        <img src="https://raw.githubusercontent.com/sonicavionics/4in-backplate/refs/heads/main/images/board.png" style="height:auto; width:150px;" />
+        <img src="https://raw.githubusercontent.com/sonicavionics/4in-backplate/refs/heads/main/images/board.front.png" style="height:auto; width:150px;" />
         <br />
         <a href="https://github.com/sonicavionics/4in-backplate/tree/main" target="_blank"><i>Backplate</i></a>
       </td>
