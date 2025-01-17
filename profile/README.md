@@ -1,5 +1,7 @@
 # Sonic Avionics is a research organization that focuses on building flight computers.
 
+https://github.com/sonicavionics/4in-avionics
+
 ---
 
 <div align="center">
